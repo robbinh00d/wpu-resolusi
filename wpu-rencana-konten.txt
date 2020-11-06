@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU 
 
 - Python
+  * Tkinter
+  * Django
 - Javascript
 - Interview
 - Vlog
